@@ -58,3 +58,15 @@ Summary of your validation scheme results for all methods chosen also needs to b
 
 ### Submission deadline
 All the stuff above should be submitted by **24 Apr 2017**, the last commit before the deadline will be counted in for grading.
+
+## Programming languages and software
+To play with machine learning, you need some tools that have already framed the methods,so that you can use them without extra efforts, if reading documentation is not deemed to be the 'extra effort'. In this assignment, we recommend you to use R or Python.
+
+### R
+If you feel comfortable with R, you can try the R package 'caret', which has been installed in the computer classroom. If you are not familiar with R, you can start it by reading the tutorial we provided.
+
+### Python
+If you go for Python, [scikit-learn](http://scikit-learn.org/stable/) is recommended. Basic knowledge of [NumPy](http://www.numpy.org/) will be helpful; advanced users can try [Pandas](http://scikit-learn.org/stable/tutorial/basic/tutorial.html) and [sklearn-pandas](https://github.com/paulgb/sklearn-pandas) to make more sensible data transformation. We recommend using Python 3.5+ instead of Python2 (if not necessary) for you assignment.
+
+## Why to save your best model into files
+In practice, training is usually computationally expensive and therefore time-comsuming. If you get it a good estimator (or a classifier in the assignment), it is best to save it into file, so that you can reuse it in the future just by reading the file into the variable obviating the need to retrain the model. 
