@@ -1,5 +1,4 @@
-# CATS-Basics
-The basic repo for CATS assignment of B4TM on which students' work is based.
+# About the assignment
 
 ## Requirements for Git Repo
 
