@@ -1,8 +1,8 @@
 # About the assignment
 
-## Requirements for Git Repo
+## Requirements for the team Git repo
 
-### Repo Name
+### Repo name
 Please check the repo name, if your repo name is not cats-2017-groupXX, please contact Cico for changing the name before you start your work here.
 
 ### Directory structure and folder names
@@ -11,8 +11,8 @@ You are required to follow the following directory structure and the folder name
 ```
 CATS-RepoName-of-YourGroup
 │   README.md                 **
-│   Summary.md                *
-│   Estimate.txt              *
+│   summary.md                *
+│   workflow.ga               *
 │   predication.txt           *
 │
 └───data                      **
@@ -23,7 +23,7 @@ CATS-RepoName-of-YourGroup
 │   │   model.rds             *
 │   │   model.pkl             *
 │   │
-└───code                      *
+└───codes                      *
     │   file001.py
     │   file002.R
 ```
