@@ -7,12 +7,11 @@ Please check the repo name, if your repo name is not cats-2017-groupXX, please c
 
 ### Directory structure and folder names
 You are required to follow the following directory structure and the folder names inside the repo to organize your code. The name of the folder or file with single star symbol should be the same with that in the structure below. The folder or file with double star symbols are the data or infomation provided by us, therefore changes are not recommended.
-
+   
 ```
 CATS-RepoName-of-YourGroup
 │   README.md                 **
-│   summary.md                *
-│   workflow.ga               *
+│   estimate.txt              *
 │   predication.txt           *
 │
 └───data                      **
