@@ -12,7 +12,7 @@ You are required to follow the following directory structure and the folder name
 CATS-RepoName-of-YourGroup
 │   README.md                 **
 │   estimate.txt              *
-│   predication.txt           *
+│   prediction.txt           *
 │
 └───data                      **
 │   │   Train_clinical.txt    **
