@@ -3,7 +3,7 @@
 
 This is a script that helps reproduce your prediction results using your saved
 model. This script is unfinished and you need to fill in to make this script
-work. If you are using R, please fill in the R script template instead.
+work. If you are using R, please use the R script template instead.
 
 The script needs to work by typing the following commandline (file names can be
 different):

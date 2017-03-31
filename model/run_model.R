@@ -1,6 +1,7 @@
 # Author: Chao (Cico) Zhang
 # Date: 31 Mar 2017
 # Usage: Rscript run_model.R -i unlabelled_sample.txt -m model.pkl -o output.txt
+# If you are using python, please use the Python script template instead.
 # Set up R error handling to go to stderr
 options(show.error.messages=F, error=function(){cat(geterrmessage(),file=stderr());q("no",1,F)})
 
